@@ -1,6 +1,6 @@
 ﻿
 let clientId = "11111111-1111-1111-1111-111111111111";
-let tenant = "YOUR_TENANT.onMiicrosoft.com";
+let tenant = "YOUr_TENANT.onMiicrosoft.com";
 let authority = "https://login.microsoftonline.com/" + tenant;
 
 const msalConfig = {
